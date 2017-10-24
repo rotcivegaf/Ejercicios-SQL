@@ -140,3 +140,27 @@ INSERT INTO editorial(ed_id, ed_name, ciudad, estado, pais) VALUES
 (3,'Libre','Cordoba','CO','Argentina'),
 (4,'El Gringo','Miami','MI','Estados Unidos'),
 (5,'Colombian','Bogota','BO','Colombia');
+
+INSERT INTO libros(libro_id, titulo, clasificacion, ed_id, precio, anticipo, rega, total_ventas, resumen, fechapub) VALUES
+('000001','Casper','Infantil', 4, 40, 20, 35, 5000,'es un fantasmita');
+
+INSERT INTO libroauto(au_id, libro_id, au_ord, regaper) VALUES
+();
+
+INSERT INTO tiendas (tienda_id, tienda_nombre, tienda_direccion, ciudad, estado, codigopostal) VALUES
+();
+
+INSERT INTO ventas (tienda_id, ord_num, fecha_or, qty, terminospa, libro_id) VALUES
+();
+
+INSERT INTO regalias (libro_id, lorange, hirange, rega) VALUES
+();
+
+INSERT INTO descuentos (tipodescuento, tienda_id, bajaqty, altaqty, descuento) VALUES
+();
+
+INSERT INTO cargo (car_id, car_desc, min_lvl, max_lvl) VALUES
+();
+
+INSERT INTO empleado (emp_id, nombre, inic, apellido, car_id, car_lvl, ed_id, fecha_inicio) VALUES
+();
