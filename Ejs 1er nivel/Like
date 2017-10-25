@@ -1,0 +1,17 @@
+1. Hacer un select y traer los campos de nombre, apellido y teléfono de los autores donde el nombre comience por 'G'.
+
+2. Hacer un select y traer los campos de nombre, apellido de los empleados donde el apellido comience con 'Fer'.
+
+3. Hacer un select y traer los campos de titulo, clasificación de los libros donde el titulo contenga la palabra 'Naranja'.
+
+4. Hacer un select y traer los campos de titulo, resumen de los libros donde el resumen del libro contenga la palabra 'diablo'.
+
+5. Hacer un select y traer los campos de titulo, clasificación de los libros donde el titulo contenga la palabra 'Gold' o empiece con 'C'.
+
+6. Hacer un select y traer los campos de nombre, apellido y teléfono de los autores donde el apellido sea de 5 caracteres y termine en 'ez'.
+
+7. Hacer un select y traer los campos de nombre, apellido y teléfono de los autores donde el nombre sea de 7 caracteres y termine en 'o'.
+
+8. Hacer un select y traer el campo descripción del cargo, donde la descripción del cargo contenga la palabra 'cajero'.
+
+9. Hacer un select y traer el campo descripción del cargo, donde la descripción del cargo contenga la palabra 'limpieza'
