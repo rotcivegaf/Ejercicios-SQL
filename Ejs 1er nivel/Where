@@ -1,10 +1,19 @@
 1. Hacer un select y traer los campos de nombre, apellido y teléfono de los autores donde el apellido sea 'Perez'.
+
 2. Hacer un select y traer los campos de nombre, apellido y teléfono de los autores donde el estado sea Californea.
+
 3. Hacer un select y traer los campos de nombre, apellido y teléfono de los autores donde el contrato sea 0.
-4. Hacer un select y traer la descripción donde el cargo sea cajero.
+
+4. Hacer un select y toda la informacion donde el cargo sea cajero.
+
 5. Hacer un select y traer el nombre de la editorial, pais donde el país sea Estados unidos.
+
 6. Hacer un select y traer el nombre de la editorial, pais, estado donde el país sea Argentina, y el estado sea Cordoba.
+
 7. Hacer un select y traer el nombre de la editorial, pais donde los paises sean de sudamerica.
+
 8. Hacer un select y traer la información de los empleados cuyo nombre sea Paula.
+
 9. Hacer un select y traer los campos de nombre, apellido y teléfono de los empleados donde el car_id sea 3.
+
 10. Hacer un select y traer los campos de nombre, apellido y dirección de los empleados donde el car_id sean 1 o 2.
