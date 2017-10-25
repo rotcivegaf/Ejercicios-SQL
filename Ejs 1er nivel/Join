@@ -1,0 +1,17 @@
+1. Hacer un select y traer nombre, apellido, cargo del empleado donde el cargo sea 'Encargado' o 'Cajero'.
+
+2. Se desea conocer la información de empleado y el nombre de la editorial donde trabaja.
+
+3. Hacer un select y traer nombre del libro, resumen del libro, y cantidad vendida (qty).
+
+5. Hacer un select y traer titulo del libro, clasificación, y el nombre de su editorial.
+
+6. Hacer un select y traer titulo del libro, clasificación, y nombre de la editorial todos los libros cuyos precios estén entre 10 y 20 y editorial este en Estados Unidos.
+
+7. Se desea conocer la información del los autores y los libros que han publicado.
+
+8. Se desea conocer la información de los libros, nombre de la editorial y tienda que lo ha vendido.
+
+9. Se desea conocer la información de todos los libros cuyas ventas en tienda sea entre 15 y 20.
+
+10. Verificar la información de la editorial y los cargos que existen dentro de la misma.
