@@ -1,0 +1,6 @@
+1. Contar la cantidad de empleados que hay, nombrando la columna como 'Cant Empleados'.
+2. Obtener el promedio de los precios de los libros, nombrando la columna como 'Promedio precio libros'.
+3. Listar el precio maximo de todos los libros, nombrando la columna como 'Precio MAX', junto con su titulo.
+4. Buscar el libro que menos se vendio, nombrando la columna como 'Cant Vendida', junto con su titulo. 
+5. Sumar la cantidad de ventas de los libro, nombrando la columna como 'Cant de ventas por libro', junto con su titulo. 
+6. Obtener el promedio de los precios de los libros que cuesten mas de 500, nombrando la columna como 'Promedio mayo a 500'.
