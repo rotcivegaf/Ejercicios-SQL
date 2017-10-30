@@ -10,7 +10,7 @@
 
 6. Hacer un select y traer el nombre de la editorial, pais, estado donde el país sea Argentina, y el estado sea Cordoba.
 
-7. Hacer un select y traer el nombre de la editorial, pais donde los paises sean de sudamerica.
+7. Hacer un select y traer el nombre de la editorial, pais donde el pais sea Argentina o Cordoba.
 
 8. Hacer un select y traer la información de los empleados cuyo nombre sea Paula.
 
