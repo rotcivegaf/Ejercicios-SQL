@@ -7,4 +7,5 @@ WHERE (
     v.libro_id = l.libro_id
 )
 GROUP BY v.tienda_id,ord_num, v.libro_id, a.au_id
+ORDER BY cantidadVentas DESC
 LIMIT 3;
