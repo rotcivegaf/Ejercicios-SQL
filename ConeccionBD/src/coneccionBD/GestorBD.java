@@ -27,21 +27,8 @@ public class GestorBD {
    
    public static void cerrar() throws SQLException {
       if (coneccion != null) {
-    	  System.out.println("coneccion 	cerrada");
+    	  System.out.println("coneccion cerrada");
     	  coneccion.close();
       }
    }
-   
-   public static void selectPrueba() throws SQLException {
-	   Statement st = coneccion.createStatement();
-
-	   ResultSet rs = st.executeQuery("SELECT * FROM autores;");
-	   
-	   System.out.println("id	|nombre		|apellido");
-	  
-	   while (rs.next()){
-		   System.out.println(rs.getObject("au_id") + "\t|" + rs.getObject("au_nombre") +  "\t|" +rs.getObject("au_apellido"));
-	   }
-	   rs.close();
-	}
 }
